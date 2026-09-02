@@ -1,4 +1,4 @@
-# Hi, I'm Rodolfo Florentin 👋
+# Hi, I'm Rodolfo Florentin 
 
 **Software Developer | Computer Engineering Student | Back-End & Database Specialist**
 
